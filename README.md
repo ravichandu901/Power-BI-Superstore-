@@ -9,7 +9,7 @@ well as top 5 products
 date and YTD Sales. Using line chart Sales between two dates can be analyzed             
 ● Used Bar Graph for sales by sales agent Analysis     
 ● Used Set and filter for extracting top 5 products from product by sales Bar graph     
-● Created Donut chart in Tableau for sales by category analysis and Bar graph for sales by 
+● Created Donut chart in Power BI for sales by category analysis and Bar graph for sales by 
 sub-category           
 ● Created Cards for total sales this year, last year and growth and using text table for sales 
 breakdown       
